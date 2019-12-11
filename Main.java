@@ -13,7 +13,9 @@ public static void wow(){
     System.out.println("type show");
 
     if (wow.equals("show")){
+      int aaa = 123;
       System.out.println("This scanner is how you ask for user input" + lol);
+      System.out.println("aaaaa suck a but " + aaa);
       
 
     }
